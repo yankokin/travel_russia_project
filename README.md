@@ -26,8 +26,9 @@ git clone https://github.com/ваш-username/russian-travel.git
 2. Откройте файл index.html в браузере.
 
 ## Структура проекта
+```
 russian-travel/
 ├── images/              # Все изображения проекта
 ├── index.html           # Главная страница
 ├── index.css            # Основные стили
-└── README.md            # Этот файл
+└── README.md            # Этот файл```
