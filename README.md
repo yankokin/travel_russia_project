@@ -31,4 +31,5 @@ russian-travel/
 ├── images/              # Все изображения проекта
 ├── index.html           # Главная страница
 ├── index.css            # Основные стили
-└── README.md            # Этот файл```
+└── README.md            # Этот файл
+```
