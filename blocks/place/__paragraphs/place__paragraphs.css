@@ -1,0 +1,13 @@
+.place__paragraphs {
+    grid-column: 2;
+    grid-row: 2;
+    display: grid;
+    gap: 25px;
+    align-content: start;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 29.3px;
+}

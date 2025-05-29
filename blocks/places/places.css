@@ -1,0 +1,9 @@
+.places {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 80px; /* Вертикальный отступ между элементами .place */
+    width: 100%;
+    max-width: 984px;
+    margin: 0 auto;
+    padding: 92px 100px;
+}

@@ -1,0 +1,15 @@
+.header__lang-link {
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.header__lang-link:hover {
+  opacity: 0.7;
+  text-decoration: underline;
+}

@@ -1,0 +1,10 @@
+.lead__image-wrapper {
+  width: 984px;
+  height: 615px;
+  top: 368px;
+  background-image: url(./img/kalegin-michail-179870-unsplash.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  position: absolute;
+  left: 0;
+}
